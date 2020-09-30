@@ -1,5 +1,5 @@
 # Python
-School projects in Python that use the arcade library (http://arcade.academy/)
+Basic school projects in Python that use the arcade library (http://arcade.academy/)
 
 Installation:
 
